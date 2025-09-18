@@ -483,9 +483,9 @@ src/
 
 ## ✒️ Authors
 
-- **GitHub Username** - _Developer_ - [GitHub](https://github.com/your-username)
+- **Henrique Leme** - _Developer_ - [GitHub]([https://github.com/your-username](https://github.com/henrique-leme))
 
-See also the list of [contributors](https://github.com/your-username/starsling-github-integration/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/henrique-leme/starsling-github-integration/contributors) who participated in this project.
 
 ## License
 
