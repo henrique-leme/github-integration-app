@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/static/v1?label=Zod&message=validation&color=orange&style=for-the-badge&logo=zod"/>
 </p>
 
-## Project Status: ⚠️ In Development
+## Project Status: Done for Testing
 
 ### Description
 
